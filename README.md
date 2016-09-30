@@ -2,6 +2,8 @@
 
 `devpi-web` is human friendly interface to `devpi-server`, an efficient self-updating PyPI caching mirror.
 
+[![](https://images.microbadger.com/badges/image/goodtune/devpi-web.svg)](https://microbadger.com/images/goodtune/devpi-web "goodtune/devpi-web")
+
 # How to use this image
 
 ## Start an instance of devpi-server
